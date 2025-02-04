@@ -8,15 +8,15 @@ I'm a **Machine Learning Engineer** with expertise in **LLMs, NLP, and AI-driven
 - 🏗 Experience in **LLMs, NLP, Deep Learning, and Data Science**
 - 🔬 Research in **AI-driven solutions, sentiment analysis, and climate change**
 - 🔧 Hands-on with **Python, PyTorch, TensorFlow, LangChain, Hugging Face, SQL, PySpark, and Databricks**
-- ☁️ Skilled in **Google Cloud, Azure, and MLflow for model deployment**
+- ☁️ Skilled in **Google Cloud, AWS, and MLflow for model deployment**
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, SQL, R, C++
 - **AI/ML**: PyTorch, TensorFlow, Hugging Face, Scikit-Learn
 - **Data Engineering**: PySpark, Databricks, ETL Pipelines
-- **Cloud & DevOps**: Google Cloud, Azure, MLflow, GitHub Actions
-- **Other Tools**: LangChain, OpenAI API, FastAPI, Jupyter Notebooks
+- **Cloud & DevOps**: Google Cloud, AWS, MLflow, GitHub Actions
+- **Other Tools**: LangChain, OpenAI API,  Jupyter Notebooks
 
 
 ## 📫 Let's Connect!
