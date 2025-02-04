@@ -21,7 +21,6 @@ I'm a **Machine Learning Engineer** with expertise in **LLMs, NLP, and AI-driven
 
 ## 📫 Let's Connect!
 - 📧 Email: [bintobabu2000@gmail.com](mailto:bintobabu2000@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/bintobabu](https://www.linkedin.com/in/bintobabu)
-- 📝 Portfolio: [Coming Soon!]
+- 💼 LinkedIn: [linkedin.com/in/bin05](http://www.linkedin.com/in/bin05/)
 
 🚀 Always open to collaborations on **AI/ML, NLP, and LLM projects**!
